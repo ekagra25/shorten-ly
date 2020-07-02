@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shorten-ly/static/css/main.a8c498fd.chunk.css",
+    "main.js": "/shorten-ly/static/js/main.bd231f33.chunk.js",
+    "main.js.map": "/shorten-ly/static/js/main.bd231f33.chunk.js.map",
+    "runtime-main.js": "/shorten-ly/static/js/runtime-main.43c154dd.js",
+    "runtime-main.js.map": "/shorten-ly/static/js/runtime-main.43c154dd.js.map",
+    "static/css/2.658b26d9.chunk.css": "/shorten-ly/static/css/2.658b26d9.chunk.css",
+    "static/js/2.713f97ee.chunk.js": "/shorten-ly/static/js/2.713f97ee.chunk.js",
+    "static/js/2.713f97ee.chunk.js.map": "/shorten-ly/static/js/2.713f97ee.chunk.js.map",
+    "index.html": "/shorten-ly/index.html",
+    "precache-manifest.3dcb0969d04fde126ba3ac69bbf54e42.js": "/shorten-ly/precache-manifest.3dcb0969d04fde126ba3ac69bbf54e42.js",
+    "service-worker.js": "/shorten-ly/service-worker.js",
+    "static/css/2.658b26d9.chunk.css.map": "/shorten-ly/static/css/2.658b26d9.chunk.css.map",
+    "static/css/main.a8c498fd.chunk.css.map": "/shorten-ly/static/css/main.a8c498fd.chunk.css.map",
+    "static/js/2.713f97ee.chunk.js.LICENSE.txt": "/shorten-ly/static/js/2.713f97ee.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/shorten-ly/static/media/background.ff7ac8d3.jpg",
+    "static/media/font-awesome.min.css": "/shorten-ly/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.png": "/shorten-ly/static/media/logo.aad09bad.png",
+    "static/media/title.png": "/shorten-ly/static/media/title.f4bfaac0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43c154dd.js",
+    "static/css/2.658b26d9.chunk.css",
+    "static/js/2.713f97ee.chunk.js",
+    "static/css/main.a8c498fd.chunk.css",
+    "static/js/main.bd231f33.chunk.js"
+  ]
+}
